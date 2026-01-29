@@ -11,5 +11,6 @@ This is the map:
 
 This is our dear 9echda (isn't he cute?):
 
+[Watch 9echda in action!](ae519108eb754b85a981a761294ebb90.mov)
 
 
