@@ -11,6 +11,7 @@ This is the map:
 
 This is our dear 9echda (isn't he cute?):
 
-![9echda in action](ae519108eb754b85a981a761294ebb90.mov)
+<video src="https://github.com/zeineb12345/Line-follower-ISIMM-competition-/raw/main/ae519108eb754b85a981a761294ebb90.mov" controls="controls" style="max-width: 730px;">
+</video>
 
 
